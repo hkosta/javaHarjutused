@@ -22,19 +22,7 @@ public class Peamurdja2_ristmik extends Application
             Foor foor4 = new Foor(Foor.PAREM, primaryStage);
 
 
-        int count = 0;
 
-        while (count < 3) {
-
-            vilgutaPunast(foor1);
-
-            vilgutaPunast(foor2);
-
-            vilgutaRohelist(foor3);
-
-            vilgutaRohelist(foor4);
-
-            count = count + 1;
 
         }
 
